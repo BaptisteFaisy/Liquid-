@@ -1,0 +1,458 @@
+[
+ {
+  "name": "BioVision Copilot",
+  "year": 2026,
+  "centre": "Sophia Antipolis",
+  "link": "https://www.inriastartupstudio.fr/projets/biovision-copilot/"
+ },
+ {
+  "name": "Merlinsight",
+  "year": 2026,
+  "centre": "Sophia Antipolis",
+  "link": "https://www.inriastartupstudio.fr/projets/merlinsight/"
+ },
+ {
+  "name": "POPS",
+  "year": 2026,
+  "centre": "Grenoble",
+  "link": "https://www.inriastartupstudio.fr/projets/pops/"
+ },
+ {
+  "name": "Solano",
+  "year": 2026,
+  "centre": "Grenoble",
+  "link": "https://www.inriastartupstudio.fr/projets/solano/"
+ },
+ {
+  "name": "Vigilance",
+  "year": 2026,
+  "centre": "Saclay",
+  "link": "https://www.inriastartupstudio.fr/projets/vigilance/"
+ },
+ {
+  "name": "AI-Detech",
+  "year": 2025,
+  "centre": "Sophia Antipolis",
+  "link": "https://www.inriastartupstudio.fr/projets/ai-detech/"
+ },
+ {
+  "name": "Alfred Audio",
+  "year": 2025,
+  "centre": "Paris",
+  "link": "https://www.inriastartupstudio.fr/projets/alfred-audio/"
+ },
+ {
+  "name": "Allendia",
+  "year": 2025,
+  "centre": "Bordeaux",
+  "link": "https://www.inriastartupstudio.fr/projets/allendia/"
+ },
+ {
+  "name": "AreWeMe (aka ThinkSync)",
+  "year": 2025,
+  "centre": "Sophia Antipolis",
+  "link": "https://www.inriastartupstudio.fr/projets/thinksync/"
+ },
+ {
+  "name": "Avenzor",
+  "year": 2025,
+  "centre": "Sophia Antipolis",
+  "link": "https://www.inriastartupstudio.fr/projets/avenzor/"
+ },
+ {
+  "name": "Balafenn",
+  "year": 2025,
+  "centre": "Rennes",
+  "link": "https://www.inriastartupstudio.fr/projets/balafenn/"
+ },
+ {
+  "name": "BeepFake",
+  "year": 2025,
+  "centre": "Bordeaux",
+  "link": "https://www.inriastartupstudio.fr/projets/beepfake/"
+ },
+ {
+  "name": "Bionicohand",
+  "year": 2025,
+  "centre": "Rennes",
+  "link": "https://www.inriastartupstudio.fr/projets/bionicohand/"
+ },
+ {
+  "name": "BlurLabs (aka ZeroDistortion)",
+  "year": 2025,
+  "centre": "Saclay",
+  "link": "https://www.inriastartupstudio.fr/projets/zerodistortion/"
+ },
+ {
+  "name": "CertiSEN",
+  "year": 2025,
+  "centre": "Grenoble",
+  "link": "https://www.inriastartupstudio.fr/projets/certisen/"
+ },
+ {
+  "name": "Cirus",
+  "year": 2025,
+  "centre": "Paris",
+  "link": "https://www.inriastartupstudio.fr/projets/cirus/"
+ },
+ {
+  "name": "Cygon",
+  "year": 2025,
+  "centre": "Grenoble",
+  "link": "https://www.inriastartupstudio.fr/projets/cygon/"
+ },
+ {
+  "name": "Enlace",
+  "year": 2025,
+  "centre": "Lille",
+  "link": "https://www.inriastartupstudio.fr/projets/enlace/"
+ },
+ {
+  "name": "Festlik",
+  "year": 2025,
+  "centre": "Sophia Antipolis",
+  "link": "https://www.inriastartupstudio.fr/projets/festlik/"
+ },
+ {
+  "name": "Green Field IT",
+  "year": 2025,
+  "centre": "Sophia Antipolis",
+  "link": "https://www.inriastartupstudio.fr/projets/green-field-it/"
+ },
+ {
+  "name": "GuidedTwins",
+  "year": 2025,
+  "centre": "Rennes",
+  "link": "https://www.inriastartupstudio.fr/projets/guidedtwins/"
+ },
+ {
+  "name": "hapChot",
+  "year": 2025,
+  "centre": "Bordeaux",
+  "link": "https://www.inriastartupstudio.fr/projets/hapchot/"
+ },
+ {
+  "name": "Immunopred (aka Picasso)",
+  "year": 2025,
+  "centre": "Paris",
+  "link": "https://www.inriastartupstudio.fr/projets/picasso/"
+ },
+ {
+  "name": "Invirtus",
+  "year": 2025,
+  "centre": "Rennes",
+  "link": "https://www.inriastartupstudio.fr/projets/invirtus/"
+ },
+ {
+  "name": "Live-It",
+  "year": 2025,
+  "centre": "Bordeaux",
+  "link": "https://www.inriastartupstudio.fr/projets/live-it/"
+ },
+ {
+  "name": "Minim AI",
+  "year": 2025,
+  "centre": "Lille",
+  "link": "https://www.inriastartupstudio.fr/projets/minim-ai/"
+ },
+ {
+  "name": "Myrmix / Forge de l&rsquo;ingénieur",
+  "year": 2025,
+  "centre": "Rennes",
+  "link": "https://www.inriastartupstudio.fr/projets/forge-de-lingenieur/"
+ },
+ {
+  "name": "Neuroknow AI",
+  "year": 2025,
+  "centre": "Lille",
+  "link": "https://www.inriastartupstudio.fr/projets/neuroknow-ai/"
+ },
+ {
+  "name": "On the fly",
+  "year": 2025,
+  "centre": "Rennes",
+  "link": "https://www.inriastartupstudio.fr/projets/on-the-fly/"
+ },
+ {
+  "name": "Pacatis",
+  "year": 2025,
+  "centre": "Saclay",
+  "link": "https://www.inriastartupstudio.fr/projets/pacatis/"
+ },
+ {
+  "name": "Predeeption",
+  "year": 2025,
+  "centre": "Saclay",
+  "link": "https://www.inriastartupstudio.fr/projets/pre-deeption/"
+ },
+ {
+  "name": "Presume",
+  "year": 2025,
+  "centre": "Lille",
+  "link": "https://www.inriastartupstudio.fr/projets/presume/"
+ },
+ {
+  "name": "SensiPh",
+  "year": 2025,
+  "centre": "Paris",
+  "link": "https://www.inriastartupstudio.fr/projets/sensiph/"
+ },
+ {
+  "name": "Superblabla",
+  "year": 2025,
+  "centre": "Grenoble",
+  "link": "https://www.inriastartupstudio.fr/projets/superblabla/"
+ },
+ {
+  "name": "Vidjil Biotech",
+  "year": 2025,
+  "centre": "Rennes",
+  "link": "https://www.inriastartupstudio.fr/projets/vidjil-biotech/"
+ },
+ {
+  "name": "Vitidrone",
+  "year": 2025,
+  "centre": "Bordeaux",
+  "link": "https://www.inriastartupstudio.fr/projets/vitidrone/"
+ },
+ {
+  "name": "|QAP⟩ Computing",
+  "year": 2024,
+  "centre": "Saclay",
+  "link": "https://www.inriastartupstudio.fr/projets/qap%e2%9f%a9-computing/"
+ },
+ {
+  "name": "5D MultiSens",
+  "year": 2024,
+  "centre": "Rennes",
+  "link": "https://www.inriastartupstudio.fr/projets/5d-multisense/"
+ },
+ {
+  "name": "A4LL",
+  "year": 2024,
+  "centre": "Rennes",
+  "link": "https://www.inriastartupstudio.fr/projets/a4ll/"
+ },
+ {
+  "name": "Abilous",
+  "year": 2024,
+  "centre": "Sophia Antipolis",
+  "link": "https://www.inriastartupstudio.fr/projets/abilous/"
+ },
+ {
+  "name": "AIBILL",
+  "year": 2024,
+  "centre": "Grenoble",
+  "link": "https://www.inriastartupstudio.fr/projets/aibill/"
+ },
+ {
+  "name": "Akhet Solutions",
+  "year": 2024,
+  "centre": "Rennes",
+  "link": "https://www.inriastartupstudio.fr/projets/akhet-solutions/"
+ },
+ {
+  "name": "Alternate Dimension",
+  "year": 2024,
+  "centre": "Sophia Antipolis",
+  "link": "https://www.inriastartupstudio.fr/projets/alternate-dimension/"
+ },
+ {
+  "name": "AppHop",
+  "year": 2024,
+  "centre": "Grenoble",
+  "link": "https://www.inriastartupstudio.fr/projets/apphop/"
+ },
+ {
+  "name": "Augur (aka FastElements)",
+  "year": 2024,
+  "centre": "Saclay",
+  "link": "https://www.inriastartupstudio.fr/projets/fastelements/"
+ },
+ {
+  "name": "Augura Space",
+  "year": 2024,
+  "centre": "Paris",
+  "link": "https://www.inriastartupstudio.fr/projets/augura-space/"
+ },
+ {
+  "name": "Awdacity",
+  "year": 2024,
+  "centre": "Paris",
+  "link": "https://www.inriastartupstudio.fr/projets/awdacity/"
+ },
+ {
+  "name": "Axiom",
+  "year": 2024,
+  "centre": "Sophia Antipolis",
+  "link": "https://www.inriastartupstudio.fr/projets/axiom/"
+ },
+ {
+  "name": "Eleya",
+  "year": 2024,
+  "centre": "Paris",
+  "link": "https://www.inriastartupstudio.fr/projets/eleya/"
+ },
+ {
+  "name": "Facila",
+  "year": 2024,
+  "centre": "Sophia Antipolis",
+  "link": "https://www.inriastartupstudio.fr/projets/facila/"
+ },
+ {
+  "name": "FloFixer",
+  "year": 2024,
+  "centre": "Nancy",
+  "link": "https://www.inriastartupstudio.fr/projets/flofixer/"
+ },
+ {
+  "name": "Henddu",
+  "year": 2024,
+  "centre": "Lille",
+  "link": "https://www.inriastartupstudio.fr/projets/henddu/"
+ },
+ {
+  "name": "iDiscover",
+  "year": 2024,
+  "centre": "Paris",
+  "link": "https://www.inriastartupstudio.fr/projets/idiscover/"
+ },
+ {
+  "name": "Kerflow (aka Verare)",
+  "year": 2024,
+  "centre": "Rennes",
+  "link": "https://www.inriastartupstudio.fr/projets/verare/"
+ },
+ {
+  "name": "LabSae",
+  "year": 2024,
+  "centre": "Paris",
+  "link": "https://www.inriastartupstudio.fr/projets/labsae/"
+ },
+ {
+  "name": "Lacert AI (aka Fisûre)",
+  "year": 2024,
+  "centre": "Bordeaux",
+  "link": "https://www.inriastartupstudio.fr/projets/fisure/"
+ },
+ {
+  "name": "Lite Sense",
+  "year": 2024,
+  "centre": "Grenoble",
+  "link": "https://www.inriastartupstudio.fr/projets/lite-sense/"
+ },
+ {
+  "name": "Lprint",
+  "year": 2024,
+  "centre": "Saclay",
+  "link": "https://www.inriastartupstudio.fr/projets/lprint/"
+ },
+ {
+  "name": "Manifest",
+  "year": 2024,
+  "centre": "Grenoble",
+  "link": "https://www.inriastartupstudio.fr/projets/manifest/"
+ },
+ {
+  "name": "Manta",
+  "year": 2024,
+  "centre": "Sophia Antipolis",
+  "link": "https://www.inriastartupstudio.fr/projets/manta/"
+ },
+ {
+  "name": "Mirai",
+  "year": 2024,
+  "centre": "Saclay",
+  "link": "https://www.inriastartupstudio.fr/projets/mirai/"
+ },
+ {
+  "name": "Mobpti",
+  "year": 2024,
+  "centre": "Rennes",
+  "link": "https://www.inriastartupstudio.fr/projets/optimobi/"
+ },
+ {
+  "name": "Odyssey Neuroscience",
+  "year": 2024,
+  "centre": "Saclay",
+  "link": "https://www.inriastartupstudio.fr/projets/odyssey-neuroscience/"
+ },
+ {
+  "name": "OrData",
+  "year": 2024,
+  "centre": "Saclay",
+  "link": "https://www.inriastartupstudio.fr/projets/ordata/"
+ },
+ {
+  "name": "Panoptix AI",
+  "year": 2024,
+  "centre": "Paris",
+  "link": "https://www.inriastartupstudio.fr/projets/panoptix-ai/"
+ },
+ {
+  "name": "Physicae",
+  "year": 2024,
+  "centre": "Rennes",
+  "link": "https://www.inriastartupstudio.fr/projets/physicae/"
+ },
+ {
+  "name": "Polyphonic",
+  "year": 2024,
+  "centre": "Lyon",
+  "link": "https://www.inriastartupstudio.fr/projets/polyphonic/"
+ },
+ {
+  "name": "Protomia",
+  "year": 2024,
+  "centre": "Lille",
+  "link": "https://www.inriastartupstudio.fr/projets/protomia/"
+ },
+ {
+  "name": "RayMapr",
+  "year": 2024,
+  "centre": "Grenoble",
+  "link": "https://www.inriastartupstudio.fr/projets/raymapr/"
+ },
+ {
+  "name": "SaCy",
+  "year": 2024,
+  "centre": "Paris",
+  "link": "https://www.inriastartupstudio.fr/projets/sacy/"
+ },
+ {
+  "name": "Sand Fox",
+  "year": 2024,
+  "centre": "Bordeaux",
+  "link": "https://www.inriastartupstudio.fr/projets/sand-fox/"
+ },
+ {
+  "name": "Shora AI",
+  "year": 2024,
+  "centre": "Lille",
+  "link": "https://www.inriastartupstudio.fr/projets/shora-ai/"
+ },
+ {
+  "name": "Skin Bionics",
+  "year": 2024,
+  "centre": "Lille",
+  "link": "https://www.inriastartupstudio.fr/projets/skin-bionics/"
+ },
+ {
+  "name": "TerraNeon",
+  "year": 2024,
+  "centre": "Paris",
+  "link": "https://www.inriastartupstudio.fr/projets/terraneon/"
+ },
+ {
+  "name": "Vergorà",
+  "year": 2024,
+  "centre": "Grenoble",
+  "link": "https://www.inriastartupstudio.fr/projets/vergora/"
+ },
+ {
+  "name": "xHold",
+  "year": 2024,
+  "centre": "Nancy",
+  "link": "https://www.inriastartupstudio.fr/projets/xhold/"
+ }
+]
