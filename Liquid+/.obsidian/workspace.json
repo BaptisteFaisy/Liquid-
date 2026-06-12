@@ -102,16 +102,26 @@
             }
           },
           {
-            "id": "68a009f220de6f3d",
+            "id": "68c5c784e80dcb68",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nouvel onglet"
+            }
+          },
+          {
+            "id": "446963e0b833a1e5",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Liquid+.canvas",
                 "viewState": {
-                  "x": 1070.8602567265395,
-                  "y": 990.7945895068325,
-                  "zoom": -1.4875221746045955
+                  "x": 3638.9798693829753,
+                  "y": 223.22913194388957,
+                  "zoom": -3.572570032249178
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -119,7 +129,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -283,12 +293,12 @@
       "graph:Ouvrir la vue graphique": false
     }
   },
-  "active": "68a009f220de6f3d",
+  "active": "446963e0b833a1e5",
   "lastOpenFiles": [
+    "Liquid+.canvas",
     "2. bourse.md",
     "~syncthing~Liquid+.canvas.tmp",
     "~syncthing~p. Liquid+.md.tmp",
-    "Liquid+.canvas",
     "~syncthing~liste des éléments à maîtriser.md.tmp",
     "~syncthing~Untitled.canvas.tmp",
     "Untitled.canvas",
