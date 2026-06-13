@@ -119,13 +119,27 @@
               "state": {
                 "file": "Liquid+.canvas",
                 "viewState": {
-                  "x": 3638.9798693829753,
-                  "y": 223.22913194388957,
-                  "zoom": -3.572570032249178
+                  "x": 3853,
+                  "y": 865,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Liquid+"
+            }
+          },
+          {
+            "id": "8ddc2be8e80051f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. bourse.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. bourse"
             }
           }
         ],
@@ -295,8 +309,8 @@
   },
   "active": "446963e0b833a1e5",
   "lastOpenFiles": [
-    "Liquid+.canvas",
     "2. bourse.md",
+    "Liquid+.canvas",
     "~syncthing~Liquid+.canvas.tmp",
     "~syncthing~p. Liquid+.md.tmp",
     "~syncthing~liste des éléments à maîtriser.md.tmp",
