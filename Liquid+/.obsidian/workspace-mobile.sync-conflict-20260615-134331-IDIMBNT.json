@@ -231,14 +231,17 @@
             "id": "44e54199b97cf51e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "ToDo Liquid+.md",
-                "mode": "source",
-                "source": false
+                "file": "Liquid+.canvas",
+                "viewState": {
+                  "x": 2658.2825411625727,
+                  "y": -146.80186904545025,
+                  "zoom": -0.8825106899936075
+                }
               },
-              "icon": "lucide-file",
-              "title": "ToDo Liquid+"
+              "icon": "lucide-layout-dashboard",
+              "title": "Liquid+"
             }
           }
         ],
@@ -390,8 +393,8 @@
   },
   "active": "44e54199b97cf51e",
   "lastOpenFiles": [
-    "Liquid+.canvas",
     "p. Liquid+.md",
+    "Liquid+.canvas",
     "2. marché secondaire.md",
     "liste des éléments à maîtriser.md",
     "ressources.md",

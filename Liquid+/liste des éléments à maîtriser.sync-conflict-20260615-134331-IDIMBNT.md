@@ -1,42 +1,4 @@
 
-### Notions à comprendre — explications simples
-
-**La valorisation (pre-money / post-money)**
-Quand The Quest investit 150 000€ dans ta startup, la question est : à combien est estimée ta startup au moment où ils investissent ? C'est ça, la valorisation.
-- La valorisation *pre-money* = ce que vaut la startup AVANT que l'argent rentre. Par exemple, 1,5M€.
-- La valorisation *post-money* = ce que vaut la startup APRÈS l'investissement = pre-money + montant investi. Ici : 1,5M€ + 150k€ = 1,65M€.
-- Le pourcentage d'equity que prend l'investisseur = montant investi / valorisation post-money. Ici : 150k / 1,65M = environ 9%.
-- Plus la valorisation pre-money est haute, moins tu te dilues. Plus elle est basse, plus l'investisseur prend de parts pour le même chèque.
-- The Quest fixe cette valorisation entre 1M€ et 5M€ selon le stade du projet.
-
-**Le hurdle (taux de préférence)**
-Dans un fonds d'investissement, le hurdle est le rendement minimum que les investisseurs (LP) doivent avoir obtenu avant que le gestionnaire du fonds (GP) puisse toucher sa part des bénéfices (le carried interest).
-- Exemple : hurdle à 7%. Si le fonds a généré 6% de rendement annuel, le gestionnaire ne touche pas encore de carry.
-- Si le fonds génère 12% : les 7 premiers % vont entièrement aux investisseurs, puis le gestionnaire rattrape sa part (catch-up), puis le surplus se partage 80/20.
-- Dans le cas de The Quest Hippodrome, le hurdle est à 7%, ce qui signifie que les investisseurs doivent avoir gagné 7%/an avant que Maxime Blondel touche sa part des gains.
-
-**La finance décentralisée (DeFi)**
-La finance décentralisée désigne des services financiers (prêts, échanges, investissements) qui fonctionnent via des programmes informatiques automatiques sur une blockchain, sans banque ni intermédiaire humain.
-- Exemple : sur Uniswap, tu peux échanger des cryptomonnaies directement avec quelqu'un d'autre, sans passer par une banque. Le contrat s'exécute tout seul.
-- La blockchain est un registre partagé, infalsifiable, où toutes les transactions sont enregistrées publiquement.
-- DeFi = finance décentralisée. Contraire de la finance "centralisée" (banques, bourses classiques).
-- Les risques : technologiques (bugs dans le code), réglementaires (les États encadrent de plus en plus), et de marché (les cryptos sont très volatiles).
-
-**La deeptech**
-La deeptech désigne des startups dont le produit repose sur une technologie fondamentale difficile à reproduire, souvent issue de la recherche scientifique.
-- Ce n'est pas juste "une appli bien faite". C'est une technologie qui nécessite des années de R&D, des brevets, des équipements spécialisés ou de l'expertise très pointue.
-- Exemples : un capteur médical qui analyse le sang sans piqûre (Spaictra, portfolio The Quest), une startup en robotique, une startup quantique.
-- Avantage : barrière à l'entrée très haute (difficile à copier). Inconvénient : long délai avant le marché, beaucoup de capital nécessaire.
-- À distinguer d'une "techno classique" (une application mobile, un SaaS) qui est technologique mais ne repose pas sur une découverte scientifique fondamentale.
-
-**Une "verticale" (ou vertical)**
-Dans le monde des startups et du VC, une "verticale" désigne un secteur ou un domaine d'application spécifique dans lequel une solution est déployée.
-- Exemple : une startup SaaS qui vend un logiciel de gestion pour les restaurants est sur la verticale "restauration" ou "foodtech".
-- "Dans quelle verticale êtes-vous ?" revient à demander "dans quel secteur précis opérez-vous ?".
-- Liquid+ est sur la verticale "investissement privé" ou "marchés secondaires" selon l'angle choisi.
-
----
-
 traction
 
 l'article de baptiste, le 1er, de nombreuses notions, alpha, sharp(e), LP, GP
